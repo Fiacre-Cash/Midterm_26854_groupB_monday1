@@ -9,7 +9,7 @@ This is a Spring Boot application for managing car rental operations in Rwanda. 
 - **Project**: Midterm Assessment - Advanced Database Systems
 - **Group**: Group B
 - **Student ID**: 26854
-- **Repository**: https://github.com/Fiacre-Cash/-midterm_26854_groupB_Monday.git
+- **Repository**: https://github.com/Fiacre-Cash/Midterm_26854_groupB_monday1.git
 
 
 ## Table of Contents
